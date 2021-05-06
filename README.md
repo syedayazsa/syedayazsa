@@ -8,3 +8,9 @@ Currently, I am working as a Deep Learning intern at VitraAI where I am working 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=syedayazsa&show_icons=true&include_all_commits=true)](https://github.com/syedayazsa/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedayazsa&layout=compact)](https://github.com/syedayazsa/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedayazsa&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedayazsa&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedayazsa&theme=default)
