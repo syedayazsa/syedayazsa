@@ -11,6 +11,9 @@ Currently, I am working as a Deep Learning intern at VitraAI where I am working 
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=syedayazsa alt=syedayazsa /> </p>
