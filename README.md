@@ -18,10 +18,6 @@ Feel free to check out my Resume & Projects :)
 
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=syedayazsa alt=syedayazsa /> </p>
