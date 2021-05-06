@@ -8,6 +8,9 @@
 
 Currently, I am working as a Deep Learning intern at VitraAI where I am working on text to speech systems and neural rhythm transfer.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UWQDBRSt8DMEyqX_1eSjhkNjikJF1zFn/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
+<br />
+<br />
+<br />
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=syedayazsa alt=syedayazsa /> </p>
 
