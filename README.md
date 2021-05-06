@@ -11,6 +11,5 @@ Currently, I am working as a Deep Learning intern at VitraAI where I am working 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedayazsa&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedayazsa&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedayazsa&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedayazsa&theme=default&layout=compact) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedayazsa&theme=default&layout=compact)
