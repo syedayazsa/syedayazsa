@@ -14,7 +14,7 @@ Feel free to check out my Resume & Projects :)
 </p>
 
 
-<p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UWQDBRSt8DMEyqX_1eSjhkNjikJF1zFn/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view my resume <a href='' target=_blank><u>here</u>.</a></p>
 
 <br>
 
