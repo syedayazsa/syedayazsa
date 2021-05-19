@@ -30,4 +30,3 @@ Feel free to check out my Resume & Projects :)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedayazsa&theme=default&layout=compact) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syedayazsa&theme=default&layout=compact)
-
