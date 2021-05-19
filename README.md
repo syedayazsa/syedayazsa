@@ -21,8 +21,6 @@ Feel free to check out my Resume & Projects :)
 ## Some of my Github Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=syedayazsa alt=syedayazsa /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=syedayazsa&show_icons=true&include_all_commits=true)](https://github.com/syedayazsa/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedayazsa&layout=compact)](https://github.com/syedayazsa/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
